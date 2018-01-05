@@ -1,0 +1,3 @@
+额发热热我
+git remote add origin https://github.com/Mrjiaolong/jib.git
+git push -u origin master
